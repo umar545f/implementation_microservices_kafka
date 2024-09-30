@@ -1,0 +1,10 @@
+com/umar/productservice/ProductServiceApplication.class
+com/umar/productservice/Model/Product$ProductBuilder.class
+com/umar/productservice/Service/ProductService.class
+com/umar/productservice/DTO/ProductResponse.class
+com/umar/productservice/DTO/ProductResponse$ProductResponseBuilder.class
+com/umar/productservice/Controller/ProductController.class
+com/umar/productservice/DTO/ProductRequest.class
+com/umar/productservice/DTO/ProductRequest$ProductRequestBuilder.class
+com/umar/productservice/Repository/ProductRepository.class
+com/umar/productservice/Model/Product.class

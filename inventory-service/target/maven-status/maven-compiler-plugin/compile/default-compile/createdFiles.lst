@@ -1,0 +1,5 @@
+com/umar/inventoryservice/repository/InventoryRepository.class
+com/umar/inventoryservice/InventoryServiceApplication.class
+com/umar/inventoryservice/service/InventoryService.class
+com/umar/inventoryservice/model/Inventory.class
+com/umar/inventoryservice/controller/InventoryController.class
